@@ -1,7 +1,7 @@
 {
   "name": "dimension-fork",
   "version": "1.0.0",
-  "description": "",
+  "description": "Modern chat meets tabletop style roleplay",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,10 +11,15 @@
     "url": "git+https://github.com/pixelready/dimension-fork.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Owen Waring",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/pixelready/dimension-fork/issues"
   },
-  "homepage": "https://github.com/pixelready/dimension-fork#readme"
+  "homepage": "https://github.com/pixelready/dimension-fork#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  }
 }
