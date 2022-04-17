@@ -8,6 +8,14 @@ Let's get our chocolate in our peanut butter and try roleplay like it's 202X! Sc
 
 Roleplay that fits in your busy life... *and there was much rejoicing!*
  
+Usage
+---
+ 
+Start the development server with this command:
+ 
+```
+npm start
+```
  
  
 Setup
